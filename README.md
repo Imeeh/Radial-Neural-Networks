@@ -1,5 +1,5 @@
 # Radial-Neural-Networks
-Application ofAartificial Radial Neural Networks for the problem of Aproximation of the function of one variable.
+Application of Aartificial Radial Neural Networks for the problem of Aproximation of the function of one variable.
 
 Labortatory task - Radial Neual Networks
 Apply artificial radial neural networks for the problem of approximation of the function of one variable.
